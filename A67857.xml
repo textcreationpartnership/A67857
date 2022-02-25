@@ -1,0 +1,265 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some worthy proverbs left behind by Judith Zins-Penninck to be read in the congregation of the saints / translated into English by one that testifieth that God is no respecter of persons ... W.C.</title>
+            <author>Zins-Penninck, Judith.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67857</idno>
+            <idno type="STC">Wing Z13</idno>
+            <idno type="STC">ESTC R25223</idno>
+            <idno type="EEBO-CITATION">08800933</idno>
+            <idno type="OCLC">ocm 08800933</idno>
+            <idno type="VID">41871</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67857)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41871)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1272:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some worthy proverbs left behind by Judith Zins-Penninck to be read in the congregation of the saints / translated into English by one that testifieth that God is no respecter of persons ... W.C.</title>
+                  <author>Zins-Penninck, Judith.</author>
+                  <author>W. C.</author>
+               </titleStmt>
+               <extent>10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Warwick,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Proverbs.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41871:1"/>
+            <p>SOME WORTHY PROVERBS Left behind by Judith Zins-Penninck, To be read in the CONGREGATION OF THE SAINTS.</p>
+            <p>Tranſlated into <hi>Engliſh</hi> by one that teſtifieth, That God is no reſpecter of perſons, for whoſoever worketh righteouſneſs, and feareth him, of what Nation, Countrey, Tribe or Language ſoever he or ſhe be, ſuch find acceptance with the Lord.
+<hi>W. C.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Warwick</hi> 1663:</p>
+         </div>
+      </front>
+      <body>
+         <div type="proverbs">
+            <pb facs="tcp:41871:2"/>
+            <pb n="1" facs="tcp:41871:2"/>
+            <head>
+               <hi>Some Worthy Proverbs left behind, by</hi> Judith Zins-Penninck, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>Friends and Brethren:</salute>
+            </opener>
+            <p>GOD Almighty hath appeared in his unexpreſſible love to a choſen Generation, among whom he will have his glorious and everlaſting Name to dwell, for to make it the praiſe of the whole Earth: And this choſen Generation will he govern in Righteouſneſs, and his Scepter ſhall remain for ever and ever: For he the Lord is King, and his Spirit is the fulfilling of all things, and it is the Lot and In<g ref="char:EOLhyphen"/>heritance of the Choſen for ever.</p>
+            <p>Therefore then, Love Righteouſneſs, and deſpiſe Infidelity, for ſhe leads unto deſtruction, and her Root cannot remain ſtedfaſt.</p>
+            <p>Embrace Wiſdom, and let her dwell in your inner Cham<g ref="char:EOLhyphen"/>bers, that ſhe may preſerve you in the time of tribulation, yea, in the time of Oppreſſion, when the Anguiſh ſeems to take away the glorious ſplendor of the everlaſting Goſpel of peace.</p>
+            <p>Therefore put on Wiſdom in her appearance, for ſhe is the beginning of all things, and by her were laid the Foun<g ref="char:EOLhyphen"/>dations of the Earth, and after this hath my heart ſought from the days of my youth, and my ſoul hath found her to her ſa<g ref="char:EOLhyphen"/>tisfaction.</p>
+            <p>And through this (viz. Wiſdom) is the Lord pouring forth theſe Proverbs, to the end that the ignorant ſhould underſtand, and the ſimple obſerve Wiſdom.</p>
+            <p>Forget then the Houſe of your Father, that the Pilgrimage may be brought forth, by which you may be made Heirs of
+<pb n="2" facs="tcp:41871:3"/>the everlaſting Kingdom, which God hath prepared for his choſen, where fleſh and blood hath no Inheritance.</p>
+            <p>Treaſure up Innocency, and let Simplicity be your Compani<g ref="char:EOLhyphen"/>on: Then will the Lord have reſpect unto you.</p>
+            <p>Exerciſe your minds in fear, that looſeneſs may never ſeduce you: For the fear preſerves, and where the fear of God is, there is the bleſſing.</p>
+            <p>Take heed unto the Lord, and hearken unto his Counſel, and obey his Inſtructions, for his ways lead unto life.</p>
+            <p>He then that loveth Life, abſtains from the Evil, and he putteth off the Corruption, that he may be ſwallowed up of Life.</p>
+            <p>Take hold on Virtue, and let the ſame be your Tea<g ref="char:EOLhyphen"/>cher, that your dayes may be prolonged in the Land of the Living.</p>
+            <p>Righteouſneſs and Folly meet each other: He then that diſ<g ref="char:EOLhyphen"/>cerns the one from the other, is wiſe.</p>
+            <p>Humility is born in the Houſe of peace, and Equity is the Mother of it.</p>
+            <p>He that loveth Wiſdom, forſakes the evil, and he takes hold on that which will remain: For the paths of Death are meer<g ref="char:EOLhyphen"/>ly folly.</p>
+            <p>Support them that are ſtumbling, and rear up them that are bowed down, and remember that you have had need of the hand of Love: then will the Lord do good unto you.</p>
+            <p>Faith and Confidence ſhall poſſeſs the Land, and Love ſhall be the Rule or Bond of Concord, and the Bride ſhall dwell in the inner Chambers.</p>
+            <p>They that ſupport that which is broken, ſhall receive bleſſing: and an upright mind ſhall the Lord enrich.</p>
+            <p>Maintain not looſneſs, nor ſatisfie that mind which invents vanity; for the Lord hates them both.</p>
+            <p>He that holds ſottiſh company, gathers anger; and he hath no reward.</p>
+            <p>He that loves Wiſdom, gathers Riches: And he that loves Inſtructions; he is wiſe.</p>
+            <pb n="3" facs="tcp:41871:3"/>
+            <p>The fooliſh come to fall, and they that uphold them, partake with them of their portion: therefore let them periſh in their birth, for the Lord hath prepared no place of peace for them: their reward ſhall periſh with them, and their expectations ſhall be vain.</p>
+            <p>Accompany them that fear the Lord, and know that the Lord hath choſen ſuch.</p>
+            <p>Pour out your heart unto the needful, then will the Lord mul<g ref="char:EOLhyphen"/>tiply your treaſure: for the reward of the well-doers is returned into their boſome.</p>
+            <p>Praiſe is the white upon which the eye looketh, and it is the ſweetning of the Labour: Even ſo is the Lord unto all his chil<g ref="char:EOLhyphen"/>dren.</p>
+            <p>Reward the good through obedience, and the well-doing through mercy: then will the Lord be gracious unto you.</p>
+            <p>Support the weak in the time of need, that he through want of help do not come to periſh: For now will the Lord require the ſheep from the hand of the Keeper.</p>
+            <p>Wait upon the Lord, and truſt in him in the time of tribulati<g ref="char:EOLhyphen"/>on, for he is long-ſuffering, and he hath no pleaſure in that mind that is unſtable.</p>
+            <p>The ſerious are wiſe, and the long-ſuffering judge of things that come to paſs.</p>
+            <p>He that loveth judgement, deſpiſeth the reward, and doth not reſpect any mans perſon, for that is abomination to the Lord.</p>
+            <p>He that caſteth his care upon the Lord, he is holpen in due time.</p>
+            <p>Open thy heart unto the Lord, and receive his tender ſpeeches in the time of youth, when inſtructions are given unto the good; for the Lord he accompanieth the Infant, and he calls the Lamb while it is yet at his Mothers breaſt.</p>
+            <p>Therfore you children, put not the time of old age afar off, but know that the Lord loveth the tender, and that he hath a delight or pleaſure in the young branches, which may be bowed to his obedience.</p>
+            <p>Further the Work of the Lord in one another, and obſtruct it not in any.</p>
+            <pb n="4" facs="tcp:41871:4"/>
+            <p>When any ones heart is drawn to the Lord, let him be obedi<g ref="char:EOLhyphen"/>ent to the Lord that draws him, that he may inſtruct him through his Light, and then ſhall his Church be proſperous, whoſe build<g ref="char:EOLhyphen"/>ing is like unto the precious ſtones which are made ready for the builders, and for the perfecting of which the Corner-ſtone is preſerved, that all through him might be made perfect; for he is the Author and the Finiſher of all his works, and through him are all things made manifeſt that have been hid from the foun<g ref="char:EOLhyphen"/>dation of the World to the end of the ſame. For the Lord hath laid by him the foundations of the earth, and the Heavens hath he prepared through him, even him who is the Counſel &amp; Pro<g ref="char:EOLhyphen"/>vidence of God, the firſt-born of every creature; and there<g ref="char:EOLhyphen"/>fore is he made of the Father, Wiſdom, Strength and Glory, that all through him might be perfected: Here is the Wiſdom: He that hath an underſtanding, let him underſtand, that he may render all unto the Lord that belongs to him, viz. Praiſe, Honor and Glory from everlaſting to everlaſting.</p>
+            <p>Watch then all, and pray, and reward no man according to your opinion, but rather ſubmit your ſelves unto the Lord, that he may give you wiſdom in all things, &amp; his Counſel will remain unalterable.</p>
+            <p>Open your hearts unto the oppreſſed, and give unto him of your inheritance, that he may be partaker of your mercy; then will the Lord be magnified in his houſe.</p>
+            <p>Praiſe is given to the victorious, and his glory to his choſen.</p>
+            <p>Judgement is in the hand of them that fear the Lord, and it is not broken, but the wicked oppreſs it.</p>
+            <p>He that loveth Judgement, is wiſe: and he that embraceth Righteouſneſs, ſhall be glorified.</p>
+            <p>The Proverbs of the wiſe are Counſels, and their ſecrets are for the Prudent.</p>
+            <p>Love that which is hid, to the end that you may be led into the inner Chambers.</p>
+            <p>The Bride is the Ornament of the Bridegroom, &amp; the Gueſts they are refreſhed in her: Her Mother rejoyceth in her, and her Companions crown her: Her Adornment is pure Holineſs, and her Virtues are exceeding.</p>
+            <p>O unexpreſſible Glory! Who ſhall declare the length of thy
+<pb n="5" facs="tcp:41871:4"/>days? Who ſhall declare thy benefits? Thou filleſt the hearts of thy Children, and thou giveſt the glory to thy choſen: thou makeſt them to dwell in pleaſure, and ſatisfaction is their porti<g ref="char:EOLhyphen"/>on: their inheritance is everlaſting, and their joy without ceaſing.</p>
+            <p>Humble your ſelves then before the Lord, and ſlight not his viſitation: For I have alſo participated of mourning, and the days of tribulation have been many, that the Lord might be glorified.</p>
+            <p>He that loveth Wiſdom, learns the fear of the Lord; and he that follows after it, obtains it.</p>
+            <p>Love the Truth, and ſhe will be the way of Life to thee.</p>
+            <p>Open thy heart to the Lord, and he will inſtruct thee.</p>
+            <p>Hide not thy Counſel from the Lord, leſt he deſtroy thee, for his eye ſeeth in ſecret, and he knoweth the conſultation of the heart.</p>
+            <p>A Child that loveth the Lord, receiveth mercy, and he is never forgotten.</p>
+            <p>The Crown of the Parents is the ornament of Children, even ſo is the Lord concerning his choſen.</p>
+            <p>The ways of the Lord are meerly righteouſneſs, and his paths are truth: He hides the ſame from the double-minded, for his inheritance is for his choſen.</p>
+            <p>Love the Lord, and then ſhall his treaſure be communicated unto you.</p>
+            <p>Receive his chaſtiſement, then ſhall you become wiſe: For Chaſtiſement produceth circumſpection, and ſhe makes wiſe.</p>
+            <p>Open your ear before the Lord; then will he hear thee in the time of diſtreſs: And they that he anſwers, are holpen in the time of need: For the Lord is neer unto the upright, and his Love ſupports ſuch: He opens his treaſure unto them, and they are ſatisfied therewith.</p>
+            <p>He that maintains want, and is not ſatisfied, he is like the fool<g ref="char:EOLhyphen"/>iſh that treaſures up vanity: therefore ſhall his hope periſh.</p>
+            <p>Maintain not corruption in any man, nor reſpect him not be<g ref="char:EOLhyphen"/>cauſe of his perſon, for conſider what ſaves him: For all fleſh is as graſs, and the glory thereof as the flower of the ſame.</p>
+            <p>Corruption is born in the houſe of the fooliſh, but the Lord he dwells not there.</p>
+            <pb n="6" facs="tcp:41871:5"/>
+            <p>The joy of the heart refreſheth the ſorrowful, and the joy <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>f the Lord continues for ever and ever.</p>
+            <p>The Proverbs of the Lord are as honey in the mouth of the upright, his Word is as Oyle to the wounded, and his Image is amiable: He makes joyful without trouble, and he heals the miſerable.</p>
+            <p>He that loves wiſdom, forſaketh vanity, for underſtanding is born in ſeriouſneſs.</p>
+            <p>Hide not the counſel of deſtroyers, neither let the ſame lodg with you, that you be not through her deſtroyed.</p>
+            <p>Righteouſneſs and Judgement are in the Houſe of the Almigh<g ref="char:EOLhyphen"/>ty: and he that dwells there, bears the Banner of the ſame: his Line is Judgement, and his Plummet is certain: he that loveth the ſame, becometh wiſe.</p>
+            <p>Patience is an adorning Garment, whoſoever wears the ſame is made glorious.</p>
+            <p>Follow not the deceit of thy heart, neither be thou cloathed therewith, for it is an abomination to the Lord.</p>
+            <p>Treaſure up no vanity, for who will ſave thee? Is not vanity for judgement? and careleſneſs for to be conſumed? Where are they that have ſtood ſtedfaſt in their vanity, and that have not been broken and ſcattered? all they that deal unfaithfully, their hope comes to periſh, and they are no more remembred.</p>
+            <p>Forſake vanity, and lay hold on underſtanding, then ſhalt thou become excellent in glory: for the Lord hath poured forth of his Spirit to the glorifying of his people: therefore ſerve the Lord, and be not weary in ſo doing.</p>
+            <p>Love Wiſdom, and ſhe will preſerve thee.</p>
+            <p>In the mind of the upright wiſdom is found.</p>
+            <p>Forget not the Lord in the abundance of the heart, but con<g ref="char:EOLhyphen"/>ſider how that it is given thee.</p>
+            <p>And who is he that hath received any thing? or to whom is a<g ref="char:EOLhyphen"/>ny thing given? Is not the Lord the chief Inſtrument thereof? And is not the opening of his hand the ſatisfaction of all things?</p>
+            <p>Wait upon the Lord, and put thy confidence in him, then ſhall he make thee rich, and thou ſhalt continue ſtedfaſt unto the end.</p>
+            <p>He that is impatient, is as an early ſprig that periſheth before the time of Harveſt be come.</p>
+            <pb n="7" facs="tcp:41871:5"/>
+            <p>The Reaper gathers the good, and the Lilly is preſerved: but the tare, or that that is withered, is to be burned: Therefore wait upon the Lord in all your purpoſes, then ſhall you be hap<g ref="char:EOLhyphen"/>py in all your ways.</p>
+            <p>Wiſdom is the underſtanding, and Love is the original: theſe now are the government of all good, and they dwell in the heart of the ſerious: they that love them, become their companion: they preſerve the heart from vanities, and they are the Mother of all ſeriouſneſs.</p>
+            <p>Be wiſe ye fooliſh, and learn wiſdom, look unto the Lord ye flow of heart: How long ſhall the Lord wait for you? how long ſhall his Light manifeſt the darkneſs? and how long ſhall his Spirit ſtrive in your hearts? Awake, and go meet the Bride<g ref="char:EOLhyphen"/>groom, he knocks at the inner chamber, hearken unto him, and let him break your peace, for what have you gathered? What have you laid up in ſtore for the time of need?</p>
+            <p>Conſider <hi>Job,</hi> was it not his uprightneſs that ſupported him? And was it not his ſimplicity that juſtified him in his humility?</p>
+            <p>What then will be thine that will preſerve thee? Cometh not the Almighty to judge? and cometh he not to do Juſtice in the earth, that all offences might be taken out of his Kingdom.</p>
+            <p>What then (ſay I) will ſupport thee, thou that haſt not gather<g ref="char:EOLhyphen"/>ed that that is good? Will not the Flame conſume thee then as the ſtubble? And wilt thou not be conſumed at the chaff before the wind, whoſe place can be no more found? For the Lord is working a work in this his day, which ſhall remain to his own glory: Is not the work for the Maſter, and the labour for him that will give the reward?</p>
+            <p>Therefore then let all be awakened, for the Lord he calls all, and his voice ſhall go from one end of the Heavens unto the o<g ref="char:EOLhyphen"/>ther, and his choſen ſhall be gathered from the four winds of the earth, that all may know the one Shepherd, and the one Flock, and his Banner or token, which is Love, ſhall be the Tent and place of Refuge for all, which God hath prepared for a habita<g ref="char:EOLhyphen"/>tion for ever.</p>
+            <p>O ye tender Plants, who are ſucking the Milk of your Mother, and you who delight your ſelves in the brightneſs of your Fa<g ref="char:EOLhyphen"/>ther,
+<pb n="8" facs="tcp:41871:6"/>my heart travels often for you to the Lord, and my ſpirit is often interceding for the mitigating of your travel: For the love of my God ſhall never be forgotten by me, and therefore ſaith my heart and my ſoul often to the Lord, <hi>Turn Lord, turn to the helpleſs, yea, to the tender and weak, that they all may be experi<g ref="char:EOLhyphen"/>enced with thy goodneſs, and that thy Name (who art in Heaven) may be glorified.</hi>
+            </p>
+            <p>Hearken then unto the Inſtructions of thy Father, and forſake not the Command of thy Mother, that thou mayeſt be freed from the ſore ſervitude: Therefore labour according to thy abi<g ref="char:EOLhyphen"/>lity, and dwell with the Father, that he may give thee an inheri<g ref="char:EOLhyphen"/>tance.</p>
+            <p>Glorifie the Lord through obedience, and anſwer his Love through ſubjection, for obedience &amp; ſubjection pacifieth wrath.</p>
+            <p>Offer thankſgiving from a pure heart, and pay the Moſt High with purity: For what are words with the Lord? And what is lip-ſervice with him who ſees through the heart?</p>
+            <p>Prove your ſelves before the Lord, and appear not before him with a double mind: Fear the Lord, and tremble at his counſel, then will he have mercy upon you.</p>
+            <p>Search your mind in uprightneſs, and let not judgement weary you, that you may become wiſe: And caſt not the Law behind your backs, neither glory you in that which you have not wrought, for it is of the Lord.</p>
+            <p>Care is in the heart of the fearful, but the Lord gives a chear<g ref="char:EOLhyphen"/>ful mind to the upright.</p>
+            <p>He that is wiſe, is acceptable, and he is refreſhment to all that know him: The Lord is his Portion, and the Higheſt is his Inhe<g ref="char:EOLhyphen"/>ritance.</p>
+            <p>He that dwells in the houſe of the upright, becomes wiſe.</p>
+            <p>The Counſels of the Lord are in the heart of the upright, and the myſteries thereof are revealed to them that fear the Lord.</p>
+            <p>He that is wiſe, keepeth his foot, for the Lord is his portion.</p>
+            <p>The ſtumblings are in the heart of the weak, but the Lord ſees the ſame.</p>
+            <p>He that is of a broken heart, ſhall obtain mercy.</p>
+            <p>Treaſure up Righteouſneſs, and embrace the Truth, then
+<pb n="5" facs="tcp:41871:6"/>ſhall you live, for preſervation is in the ſame.</p>
+            <p>When you have ſinned, hide not your infirmities, but ſeek the face of the Lord. Be ſtill in the time of your viſitation, that you may become rich.</p>
+            <p>He that diſtributeth while that he is defective, he becomes poor: therefore treaſure up in the bleſſing that you may have abundance.</p>
+            <p>Diſtribute to the needful, you whom the Lord hath bleſſed, and ſtretch forth your hand to them that are in diſtreſs.</p>
+            <p>Strengthen the weak, and he will praiſe you.</p>
+            <p>Peace is laid up in the houſe of him that doth well, but deſo<g ref="char:EOLhyphen"/>lation comes upon the unmerciful.</p>
+            <p>One thing I have ſeen, and therein did my heart rejoice, <hi>viz.</hi> that the righteous ſhall always dwell in peace, and that they ſhall remain for ever in the Tabernacle of God.</p>
+            <p>The Tabernacle of the Lord is like to Mount <hi>Zion,</hi> and the Moſt High dwells there: Rejoice you choſen of the Lord, and be exceeding glad ye that are of his Family: Rejoice ye chil<g ref="char:EOLhyphen"/>dren who are come to the Immortality, the Lord is your porti<g ref="char:EOLhyphen"/>on for ever, your Tent ſhall never wax old, for the builder thereof is Immortal.</p>
+            <p>Oh that the hearts of thoſe that know this, might be alwayes taken up with the glory of the ſame, to the end that the glory of the Creator might be more and more manifeſted among them that are yet in the earth.</p>
+            <p>For who are they that ſhall glorifie the Lord? And who are they that ſhall magnifie his praiſe? Are they not ſuch as are made alive, that are riſen again with Chriſt, whoſe life is not dear unto them, whoſe Crowns are laid down before the Lamb, and him that ſits upon the Throne: Glory and praiſe be to our God for ever and ever.</p>
+            <div type="conclusion">
+               <p>This (dear Friends) hath flowed forth to you all, as out of a rich Treaſure which the Lord hath opened to the ſatisfying of my ſoul: And for a token of my love to you, hath the Lord o<g ref="char:EOLhyphen"/>pened my heart, and poured forth theſe wholſome exhortati<g ref="char:EOLhyphen"/>ons, and in the humility of my heart before the Lord, have I
+<pb n="10" facs="tcp:41871:7"/>communicated them unto you all, to the end that my fellowſhip which I have with you in the Light, might be ſo much the more manifeſted, and the Love which I have to all the Saints.</p>
+               <p>Now the God of Peace who hath brought again the great Shepherd of the ſheep, make you all fit for his own glory, to do his will in all things, to whom be glory, honor and praiſe for ever and ever.</p>
+               <p>Bear one another in love, together with my ſelf, and let this my Paper be unto you as a true Salutation of my dear and un<g ref="char:EOLhyphen"/>feigned Love, the which I leave behind me for you all, not knowing whether I ſhall ſee your faces again or no. My Love remain with you, and among you all that are faithful, and in that which is infinite and everlaſting, and will remain for ever, I hope ever to be found.</p>
+               <closer>
+                  <dateline>
+                     <hi>Colcheſter</hi> 
+                     <date>the 2. of the 6. month, 1663.</date>
+                  </dateline>
+                  <signed>Your Friend and Siſter, <hi>Judith Zins-Penninck.</hi>
+                  </signed>
+               </closer>
+               <trailer type="direction">
+                  <hi>This is to be ſent among the choſen Generation in</hi> England; <hi>but eſpeci<g ref="char:EOLhyphen"/>ally in</hi> Eſſex, London, <hi>and about</hi> Kingſtone.</trailer>
+            </div>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:41871:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
